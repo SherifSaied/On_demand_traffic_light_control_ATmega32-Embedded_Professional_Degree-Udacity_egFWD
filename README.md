@@ -1,7 +1,7 @@
 # On_demand_traffic_light_control_ATmega32-Embedded_Professional_Degree-Udacity_egFWD
 Implement a traffic lights system with an on-demand crosswalk button using Atmel Studio and Proteus Simulation.
 An Embedded system, Developed In C Programming Language, It controls the street flow Between Cars and Pedestrians. 
-<h3The System Main Components are:</h3>
+<h3 align="left">The System Main Components are:</h3>
 ATMega32 Microcontroller, 6 LEDs, Push Button. The Drivers That implemented and used is: GPIO, Timer, External Interrupt, LED.
 The Application have 2 Modes :
 1-Normal Mode:
