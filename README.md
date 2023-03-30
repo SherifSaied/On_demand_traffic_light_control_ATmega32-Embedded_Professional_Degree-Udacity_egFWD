@@ -3,7 +3,7 @@ Implement a traffic lights system with an on-demand crosswalk button using Atmel
 An Embedded system, Developed In C Programming Language, It controls the street flow Between Cars and Pedestrians. 
 <h4 align="left">The System Main Components are:</h4>
 - ATMega32 Microcontroller, 6 LEDs, Push Button. 
-<h3 align="left">The Drivers That implemented and used is:</h3> 
+<h4 align="left">The Drivers That implemented and used is:</h4> 
 GPIO, Timer, External Interrupt, LED.
 <h4 align="left">The Application have 2 Modes :</h4>
 1-Normal Mode:
