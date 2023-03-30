@@ -2,7 +2,9 @@
 Implement a traffic lights system with an on-demand crosswalk button using Atmel Studio and Proteus Simulation.
 An Embedded system, Developed In C Programming Language, It controls the street flow Between Cars and Pedestrians. 
 <h3 align="left">The System Main Components are:</h3>
-ATMega32 Microcontroller, 6 LEDs, Push Button. The Drivers That implemented and used is: GPIO, Timer, External Interrupt, LED.
+- ATMega32 Microcontroller- 6 LEDs - Push Button. 
+<h3 align="left">The Drivers That implemented and used is:</h3> 
+GPIO, Timer, External Interrupt, LED.
 The Application have 2 Modes :
 1-Normal Mode:
 The System Starts by Cars Green LED and Pedestrians Red LED is ON for 5 seconds and the remaining LEDs is OFF, Then Cars and Pedestrians Yellow LEDs is Blinking for 5 seconds and and the remaining LEDs is OFF, Then Cars Red LED and Pedestrians Green LED is ON for 5 seconds and the remaining LEDs is OFF, then yellow LEDs Blinking for 5 seconds , Then Return To The Start Point.
